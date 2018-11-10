@@ -16,6 +16,7 @@ api = tweepy.API(auth)
 
 
 # retrieve and store last seen ID's
+# create new file (lastSeenId.txt)
 FILE_NAME = 'lastSeenId.txt'
 
 
